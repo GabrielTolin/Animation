@@ -1,0 +1,21 @@
+@media (max-width:1025px){
+
+    .container{
+        width: 50vw;
+        font-size: large;
+        padding: 1.2em;
+        gap: 15px;
+
+    }
+}
+
+@media (max-width:435px){
+
+
+    .container{
+        
+        width: 70vw;
+        font-size: smaller;
+        margin-top: 10px;
+    }
+}
